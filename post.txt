@@ -1,0 +1,43 @@
+🚀 Project Showcase: Hand Gesture–Based Air Drawing ✋🎨
+
+Built a computer-vision system that allows users to draw in the air using
+hand gestures — no mouse, no touch, just a webcam.
+
+🔹 Tech Used:
+• Python
+• OpenCV
+• MediaPipe
+• Computer Vision
+
+🔹 Features:
+✔️ Real-time hand tracking
+✔️ Gesture-based drawing
+✔️ Interactive AI application
+
+Would love feedback and suggestions!
+
+#Python #ComputerVision #AI #OpenCV #Projects #Learning
+
+
+
+
+
+
+C:\Users\DEEPAK\Desktop\air_drawing_project>py -3.10 air_drawing.py
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+
+
+
+ai tools:
+producer.ai
+slidespeak.ai
+skywork.ai
+huggingface
+notebook llm
+ollama to cloud
+blink.new
+appwrite.io
+aura.build
+supabase
+
